@@ -1,0 +1,1 @@
+get 'reaction_time', to: 'reaction_time_report#show'
