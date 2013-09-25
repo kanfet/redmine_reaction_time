@@ -1,3 +1,8 @@
 en:
   reaction_time:
     caption: 'Время реакции'
+    start_date: 'С'
+    end_date: 'по'
+    generate: 'Сформировать'
+    reaction_time: 'Время реакции'
+    overdue_issues_in_percent: 'Просроченных задач: %{percent}%'

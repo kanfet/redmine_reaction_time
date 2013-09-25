@@ -1,0 +1,10 @@
+#reaction-time-report tr.subtotal {
+  font-style: italic;
+  color: #777;
+}
+#reaction-time-report td.priority {
+  text-align: center;
+}
+#reaction-time-report td.reaction-time, #reaction-time-report td.spent-time  {
+  text-align: right;
+}
